@@ -17,7 +17,7 @@ def my():
     driver.findElement(By.id("hi")).click();
     i = 0
     while True:
-         time.sleep(10)
+         time.sleep(20)
          driver.quit()
          nine()
 
